@@ -19,6 +19,7 @@ JavaScript: For logic and interactivity.
 
 ------
 🎯 How to Play
+
 Watch the sequence carefully.
 Repeat the pattern by clicking on the icons in the correct order.
 Each round adds a new step to the sequence—stay sharp!
