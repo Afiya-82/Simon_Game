@@ -1,15 +1,21 @@
 🎮 Simon Game
 Welcome to the Simon Game! This is a modern, visually stunning take on the classic memory game, built using HTML, CSS, and JavaScript.
-------
 
 ✨ Features
+------
 
 🧠 Memory Challenge: Test your memory by repeating an ever-growing sequence of patterns.
 🎨 Beautiful Icons: Small, vibrant icons are used to enhance the visual appeal of the game.
 📱 Responsive Design: Enjoy smooth gameplay on desktops, tablets, and mobile devices.
 🔊 Sound Effects: Engaging audio feedback adds another layer of fun
 
+Preview
+----
+![Screenshot (222)](https://github.com/user-attachments/assets/c0e4f0fb-bcd3-48b9-87b2-2b656694cd74)
+
+
 🛠️ Technologies Used
+-----
 
 HTML: For structuring the game.
 
@@ -17,8 +23,8 @@ CSS: To style the game and bring it to life.
 
 JavaScript: For logic and interactivity.
 
-------
 🎯 How to Play
+-----
 
 Watch the sequence carefully.
 Repeat the pattern by clicking on the icons in the correct order.
